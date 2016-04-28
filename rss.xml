@@ -4,7 +4,7 @@
         <description><![CDATA[durham]]></description>
         <link>https://thegrid.ai/durham/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 05:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 17:43:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/durham/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://source.unsplash.com/random</link>
             <guid isPermaLink="false">d703f3d0-4ded-4c27-9646-d98fc0a63707</guid>
             <pubDate>Thu, 21 Apr 2016 05:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My title]]></title>
-            <description><![CDATA[<article><h1>My title</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/146a909b8570f066234bbbd76e2318913d1d0570.jpg"></article>]]></description>
-            <link>https://source.unsplash.com/random</link>
-            <guid isPermaLink="false">868d8c47-23b1-406b-84a6-974bd654be67</guid>
-            <pubDate>Thu, 21 Apr 2016 05:28:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
