@@ -2,6 +2,7 @@ name: durham
 favicon: null
 layout_spectrum: 0.6948985659983009
 typography_spectrum: 0.9138836469501257
+style: the-composer
 cta:
   domain: null
   bucket: null
